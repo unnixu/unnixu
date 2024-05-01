@@ -1,2 +1,3 @@
-> [!NOTE]
-> hi
+```lua
+print('w')
+```
